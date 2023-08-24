@@ -1,3 +1,15 @@
-body{
-    background-color: blueviolet;
+.cabeçalho{
+  background-color: gold; 
+  color:black;
+  display: flex;
+  justify-content:space-around;
+  align-items: padding 24 px 0;
+}   
+  .cabeçalho-imagem{
+   width: 20 %
+}
+  .cabeçalho-lisa-item{
+  display: inline-block;
+  margin: 0 16 px;
+  font-size: 24 px
 }
